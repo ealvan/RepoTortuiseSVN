@@ -32,3 +32,11 @@ mkdir -p -v repositorios_svn/proyectos/$xxx/documentation/tags
 
 mkdir -p -v repositorios_svn/proyectos/$xxx/tags/anthill
 
+touch repositorios_svn/proyectos/$xxx/estatico/tags/tag1.txt
+touch repositorios_svn/proyectos/$xxx/backend/trunk/c/file.c
+touch repositorios_svn/proyectos/$xxx/codigo/branches/branch1.txt
+touch repositorios_svn/proyectos/$xxx/estatico/branches/branches2.txt
+touch repositorios_svn/proyectos/$xxx/config/trunk/serapp/xxxConfig/config.conf
+touch repositorios_svn/proyectos/$xxx/documentation/branches/branch1.txt
+
+
